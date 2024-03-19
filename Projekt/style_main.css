@@ -1,0 +1,22 @@
+.banner {
+    background-image: url(img/tło.jpg);
+    background-position: center;
+    padding: 150px 0;
+    text-align: center;
+    color: #fff;
+    margin-top: 0px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80vh;
+  }
+  
+  .banner-title {
+    font-size: 50px;
+    margin-bottom: 20px;
+  }
+  
+  .banner-description {
+    font-size: 35px;
+    margin-bottom: 30px;
+  }
+  
